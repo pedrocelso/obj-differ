@@ -1,0 +1,1 @@
+export function compare (left: object, right: object): object

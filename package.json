@@ -1,0 +1,21 @@
+{
+  "name": "obj-differ",
+  "version": "1.0.0",
+  "description": "Deep JS object diff.",
+  "main": "dist/index.js",
+  "types": "./index.d.ts",
+  "repository": "git@github.com:pedrocelso/obj-differ.git",
+  "author": "Pedro Costa <pedrocelsonunes@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
